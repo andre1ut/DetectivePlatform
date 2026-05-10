@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DetectivePlatform/static/css/main.2ff74c32.css",
+    "main.js": "/DetectivePlatform/static/js/main.c4f03a3b.js",
+    "static/js/453.04f59e16.chunk.js": "/DetectivePlatform/static/js/453.04f59e16.chunk.js",
+    "index.html": "/DetectivePlatform/index.html",
+    "main.2ff74c32.css.map": "/DetectivePlatform/static/css/main.2ff74c32.css.map",
+    "main.c4f03a3b.js.map": "/DetectivePlatform/static/js/main.c4f03a3b.js.map",
+    "453.04f59e16.chunk.js.map": "/DetectivePlatform/static/js/453.04f59e16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff74c32.css",
+    "static/js/main.c4f03a3b.js"
+  ]
+}
